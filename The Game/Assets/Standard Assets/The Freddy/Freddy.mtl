@@ -1,0 +1,14 @@
+newmtl acmat_0
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 12.8
+Tr 0
+map_Kd Fred.png
+newmtl acmat_1
+Kd 1 1 1
+Ka 1 1 1
+Ks 0.2 0.2 0.2
+Ns 12.8
+Tr 0
+map_Kd Eye_P.png
